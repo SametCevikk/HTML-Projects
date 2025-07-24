@@ -1,0 +1,25 @@
+  body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #1e90ff;
+        }
+        .post {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 8px;
+        }
+        a {
+            color: #1e90ff;
+        }
